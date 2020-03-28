@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a604a49-bfb2-4720-bf9e-e9e37356dba4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MathEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
@@ -11,6 +11,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,21 +63,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="964" height="287" key="GridCell.Tab.0.bottom" timestamp="1585359845955">
+    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1585366927247">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585359845955" />
-    <state width="964" height="287" key="GridCell.Tab.0.center" timestamp="1585359845954">
+    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585366927247" />
+    <state x="-859" y="-31" key="CommitChangelistDialog2" timestamp="1585364926199">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585359845954" />
-    <state width="964" height="287" key="GridCell.Tab.0.left" timestamp="1585359845954">
+    <state x="-859" y="-31" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585364926199" />
+    <state width="964" height="287" key="GridCell.Tab.0.bottom" timestamp="1585367076542">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585359845954" />
-    <state width="964" height="287" key="GridCell.Tab.0.right" timestamp="1585359845955">
+    <state width="964" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585367076542" />
+    <state width="964" height="287" key="GridCell.Tab.0.center" timestamp="1585367076541">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585359845955" />
+    <state width="964" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585367076541" />
+    <state width="964" height="287" key="GridCell.Tab.0.left" timestamp="1585367076541">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="964" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585367076541" />
+    <state width="964" height="287" key="GridCell.Tab.0.right" timestamp="1585367076542">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="964" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585367076542" />
   </component>
 </project>
