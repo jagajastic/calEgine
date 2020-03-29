@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CalEngine:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4a604a49-bfb2-4720-bf9e-e9e37356dba4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/InvalidStatementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CalEngine_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CalculateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CalculateHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MathCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MathCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -45,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.myapp.Main" />
+      <module name="CalEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.myapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -65,34 +90,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585495889208">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1585495889208" />
     <state x="922" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1585481469717">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585474686372" />
     <state x="922" y="201" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1585481469717" />
+    <state x="642" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585497336854">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="642" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1585497336854" />
     <state x="-859" y="-31" key="CommitChangelistDialog2" timestamp="1585364926199">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
     <state x="-859" y="-31" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585364926199" />
-    <state width="741" height="287" key="GridCell.Tab.0.bottom" timestamp="1585492466577">
+    <state width="751" height="287" key="GridCell.Tab.0.bottom" timestamp="1585495897903">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="964" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227778" />
-    <state width="741" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585492466577" />
-    <state width="741" height="287" key="GridCell.Tab.0.center" timestamp="1585492466576">
+    <state width="751" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585495897903" />
+    <state width="751" height="287" key="GridCell.Tab.0.center" timestamp="1585495897902">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="964" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227777" />
-    <state width="741" height="287" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585492466576" />
-    <state width="741" height="287" key="GridCell.Tab.0.left" timestamp="1585492466576">
+    <state width="751" height="287" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585495897902" />
+    <state width="751" height="287" key="GridCell.Tab.0.left" timestamp="1585495897901">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="964" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227776" />
-    <state width="741" height="287" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585492466576" />
-    <state width="741" height="287" key="GridCell.Tab.0.right" timestamp="1585492466577">
+    <state width="751" height="287" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585495897901" />
+    <state width="751" height="287" key="GridCell.Tab.0.right" timestamp="1585495897902">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="964" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227777" />
-    <state width="741" height="287" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585492466577" />
+    <state width="751" height="287" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585495897902" />
+    <state x="233" y="62" key="SettingsEditor" timestamp="1585497351443">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="233" y="62" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585497351443" />
   </component>
 </project>
