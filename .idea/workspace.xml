@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a604a49-bfb2-4720-bf9e-e9e37356dba4" name="Default Changelist" comment="" />
+    <list default="true" id="4a604a49-bfb2-4720-bf9e-e9e37356dba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CalculateBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Divider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Substracter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalEngine/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,29 +68,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1585366927247">
+    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1585474686372">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585366927247" />
+    <state x="-691" y="58" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585474686372" />
     <state x="-859" y="-31" key="CommitChangelistDialog2" timestamp="1585364926199">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
     <state x="-859" y="-31" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585364926199" />
-    <state width="964" height="287" key="GridCell.Tab.0.bottom" timestamp="1585412924654">
+    <state width="964" height="287" key="GridCell.Tab.0.bottom" timestamp="1585475227778">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585412924654" />
-    <state width="964" height="287" key="GridCell.Tab.0.center" timestamp="1585412924653">
+    <state width="964" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227778" />
+    <state width="964" height="287" key="GridCell.Tab.0.center" timestamp="1585475227777">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585412924653" />
-    <state width="964" height="287" key="GridCell.Tab.0.left" timestamp="1585412924653">
+    <state width="964" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227777" />
+    <state width="964" height="287" key="GridCell.Tab.0.left" timestamp="1585475227776">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585412924653" />
-    <state width="964" height="287" key="GridCell.Tab.0.right" timestamp="1585412924654">
+    <state width="964" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227776" />
+    <state width="964" height="287" key="GridCell.Tab.0.right" timestamp="1585475227777">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state width="964" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585412924654" />
+    <state width="964" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1585475227777" />
   </component>
 </project>
