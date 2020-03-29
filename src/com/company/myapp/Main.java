@@ -4,14 +4,38 @@ import com.company.Adder;
 import com.company.CalculateBase;
 import com.company.CalculateHelper;
 import com.company.Divider;
+import com.company.DynamicHelper;
 import com.company.InvalidStatementException;
 import com.company.MathEquation;
+import com.company.MathProcessing;
 import com.company.Multiplier;
+import com.company.PowerOf;
 import com.company.Substracter;
 
 public class Main {
 
     public static void main(String[] args) {
+//        useCalculateHelper();
+//        useMatheEquation();
+//        useCalculatorBase();
+
+        String[] statements = {
+                "add 25.0 92.0", // 25.0 + 92.0 = 117.0
+                "power 5.0 2.0", // 5.0 ^ 2.0 = 25.0
+        };
+
+        DynamicHelper helper = new DynamicHelper(new MathProcessing[] {
+                new Adder(),
+                new PowerOf()
+        });
+
+        for(String statement: statements){
+            String output = helper.process(statement);
+            System.out.println(output);
+        }
+    }
+
+    static  void useCalculateHelper() {
 
         String[] statements = {
                 "divide 1.0 ",
@@ -36,7 +60,6 @@ public class Main {
 
         }
     }
-
     static void useMatheEquation() {
 
         MathEquation[] equations = new MathEquation[4];
@@ -72,7 +95,6 @@ public class Main {
 
 
     }
-
     static void useCalculatorBase() {
 
         System.out.println();
