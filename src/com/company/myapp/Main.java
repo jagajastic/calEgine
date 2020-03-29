@@ -1,4 +1,13 @@
-package com.company;
+package com.company.myapp;
+
+import com.company.Adder;
+import com.company.CalculateBase;
+import com.company.CalculateHelper;
+import com.company.Divider;
+import com.company.InvalidStatementException;
+import com.company.MathEquation;
+import com.company.Multiplier;
+import com.company.Substracter;
 
 public class Main {
 
@@ -13,7 +22,8 @@ public class Main {
                 "mutiply 11.0 3.0",
         };
 
-        CalculateHelper helper = new CalculateHelper();
+        CalculateHelper helper;
+        helper = new CalculateHelper();
         for (String statement: statements){
             try{
                 helper.process(statement);
